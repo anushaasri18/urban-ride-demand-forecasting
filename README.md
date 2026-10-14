@@ -1,6 +1,3 @@
-# urban-ride-demand-forecasting
-NYC Yellow Taxi demand forecasting and mobility analytics using Random Forest and Power BI.
-
 # Urban Ride Demand Forecasting & Mobility Analytics
 
 An end-to-end data science project exploring urban taxi demand patterns and forecasting hourly demand across selected New York City Yellow Taxi pickup zones using machine learning and Power BI.
