@@ -1,0 +1,14 @@
+{
+    "Persistence baseline": {
+        "MAE": 44.15248990578735,
+        "RMSE": 64.73745818764881
+    },
+    "January-trained model": {
+        "MAE": 27.795168594463206,
+        "RMSE": 43.24513879872056
+    },
+    "January-February model": {
+        "MAE": 26.118062268282685,
+        "RMSE": 41.097406695112795
+    }
+}
